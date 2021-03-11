@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\bin\Debug\My.exe.config
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\bin\Debug\My.exe
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\bin\Debug\My.pdb
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\obj\Debug\My.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\obj\Debug\My.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\obj\Debug\My.exe
+C:\Users\User\Desktop\ШАРАГА\Доп задания мат мод\My\My\obj\Debug\My.pdb
